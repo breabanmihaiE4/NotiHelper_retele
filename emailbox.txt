@@ -1,0 +1,7 @@
+mihai -> teo message: Hai noroc!
+mihai -> cacamaca message: am maine o programare la dumneavoastra!
+mihai -> teo message: salut frate
+mihai -> mihai message: Salut fra!
+mihai -> teo message: La ce ora e programarea?
+mihai -> cacamaca message: ma doare capul tare ce pastile sa iau?
+mihai -> teo message: sugi carasu!
